@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**phuong-netizen/phuong-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About me 👋
+- 🔭 I’m currently study at HCMC University of Technology and Engineering 
+- 🌱 I’m currently learning Computer Engineering
+- 💬 I’m interested in RTL, FPGA Design, Computer Architecture, Embedded System
 -->
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" width="60" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="60" />
+  <img src="https://skillicons.dev/icons?i=python" width="60" />
+  <img src="https://skillicons.dev/icons?i=arduino" width="60" />
+  <img src="https://skillicons.dev/icons?i=stm32" width="60" />
+  <img src="https://skillicons.dev/icons?i=verilog" width="60" />
+</p>
+
+  
