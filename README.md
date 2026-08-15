@@ -15,11 +15,8 @@
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="35"/>
 <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="35"/>
 <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge" height="35"/>
-<img src="https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge" height="35"/>
-<img src="https://img.shields.io/badge/Vivado-FF0000?style=for-the-badge&logo=xilinx&logoColor=white" height="35"/>
 <img src="https://img.shields.io/badge/FreeRTOS-00ADD8?style=for-the-badge" height="35"/>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35"/>
 
 </p>
 
