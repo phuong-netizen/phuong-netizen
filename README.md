@@ -20,8 +20,9 @@
 
 </p>
 
-##🚀 Featured Projects
--MIPS32 CPU
--STM32 Parking System
--ESP32 FreeRTOS
+## 🚀 Featured Projects
+
+- 🖥️ MIPS32 Single-Cycle CPU
+- 🚗 STM32 Automated Parking System
+- 💡 ESP32 FreeRTOS LED System
   
