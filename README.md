@@ -20,5 +20,8 @@
 
 </p>
 
-
+##🚀 Featured Projects
+-MIPS32 CPU
+-STM32 Parking System
+-ESP32 FreeRTOS
   
