@@ -25,4 +25,4 @@
 - 🖥️ MIPS32 Single-Cycle CPU
 - 🚗 STM32 Automated Parking System
 - 💡 ESP32 FreeRTOS LED System
-  
+- 🚪 Fingerprint Door Lock
